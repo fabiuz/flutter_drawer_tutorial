@@ -1,6 +1,8 @@
 # drawer_tutorial
 
-A new Flutter project.
+Este projeto é sobre construir um drawer utilizando flutter.
+Este projeto foi criado seguindo o tutorial de um vídeo no youtube:
+https://www.youtube.com/watch?v=WqpV_w6lioA
 
 ## Getting Started
 
